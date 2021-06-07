@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  url: 'https://hub.cobiro.com/v1/login'
+
 };
